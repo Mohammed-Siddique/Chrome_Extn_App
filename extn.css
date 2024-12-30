@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    min-width: 400px;
+}
+
+input {
+    width: 90%;
+    height: 2.5rem;
+    margin: 1rem;
+    box-sizing: border-box;
+}
+
+button{
+    margin: 1rem;
+    width: 15vw;
+    height: 2.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+#delete-btn{
+    margin: 1rem;
+    width: 15vw;
+    height: 2.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: white;
+    color: green;
+    border: 3px solid green;
+}
+
+ul{
+    margin-left: 2rem;
+    list-style: none;
+}
+
+li a{
+    color: green;
+}
+
